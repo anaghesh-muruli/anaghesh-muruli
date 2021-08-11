@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/anaghesh-muruli)
 
-Skills: Java / C# / Python / Problem Solving 
+Skills: Java, Backend Engineering, System Architecture Design
 
 - 📫 How to reach me: anagheshm@gmail.com 
 
