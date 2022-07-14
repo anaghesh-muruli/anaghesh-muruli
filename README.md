@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anaghesh
 #### Novice OSS Contributor
-
+#### SDE @intuit
 ![Profile views](https://gpvc.arturio.dev/anaghesh-muruli)
 
 Skills: Java, Backend Engineering, System Architecture Design
